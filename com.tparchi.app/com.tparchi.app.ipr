@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactManager">
+    <artifact type="exploded-war" name="com.tparchi.app:com.tparchi.app exploded">
+      <root id="root">
+        <element id="javaee-facet-resources" facet="com.tparchi.app/web/com.tparchi.app" />
+        <element id="directory" name="WEB-INF">
+          <element id="directory" name="classes">
+            <element id="module-output" name="com.tparchi.app" />
+          </element>
+          <element id="directory" name="lib">
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-frontend-jaxws/3.1.5/cxf-rt-frontend-jaxws-3.1.5.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/xml-resolver/xml-resolver/1.2/xml-resolver-1.2.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-core/3.1.5/cxf-core-3.1.5.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/ws/xmlschema/xmlschema-core/2.2.1/xmlschema-core-2.2.1.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-bindings-soap/3.1.5/cxf-rt-bindings-soap-3.1.5.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-wsdl/3.1.5/cxf-rt-wsdl-3.1.5.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/wsdl4j/wsdl4j/1.6.3/wsdl4j-1.6.3.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-databinding-jaxb/3.1.5/cxf-rt-databinding-jaxb-3.1.5.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-impl/2.2.11/jaxb-impl-2.2.11.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-core/2.2.11/jaxb-core-2.2.11.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-bindings-xml/3.1.5/cxf-rt-bindings-xml-3.1.5.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-frontend-simple/3.1.5/cxf-rt-frontend-simple-3.1.5.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-ws-addr/3.1.5/cxf-rt-ws-addr-3.1.5.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-ws-policy/3.1.5/cxf-rt-ws-policy-3.1.5.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/neethi/neethi/3.0.3/neethi-3.0.3.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.7.RELEASE/spring-web-4.1.7.RELEASE.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.1.7.RELEASE/spring-aop-4.1.7.RELEASE.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.1.7.RELEASE/spring-beans-4.1.7.RELEASE.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.1.7.RELEASE/spring-core-4.1.7.RELEASE.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.1.7.RELEASE/spring-context-4.1.7.RELEASE.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/spring-expression/4.1.7.RELEASE/spring-expression-4.1.7.RELEASE.jar" />
+            <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-transports-http/3.1.5/cxf-rt-transports-http-3.1.5.jar" />
+          </element>
+        </element>
+      </root>
+    </artifact>
+  </component>
+  <component name="CodeStyleManager">
+    <option name="USE_DEFAULT_CODE_STYLE_SCHEME" value="true" />
+    <option name="CODE_STYLE_SCHEME" value="" />
+  </component>
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="CopyrightManager" default="" />
+  <component name="Encoding">
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="PRINT_LINE_NUMBERS" value="false" />
+    <option name="OPEN_IN_BROWSER" value="false" />
+    <option name="OUTPUT_DIRECTORY" />
+  </component>
+  <component name="ImportConfiguration">
+    <option name="VENDOR" />
+    <option name="RELEASE_TAG" />
+    <option name="LOG_MESSAGE" />
+    <option name="CHECKOUT_AFTER_IMPORT" value="true" />
+  </component>
+  <component name="JUnitProjectSettings">
+    <option name="TEST_RUNNER" value="UI" />
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" />
+    <option name="OPTION_SCOPE" value="protected" />
+    <option name="OPTION_HIERARCHY" value="false" />
+    <option name="OPTION_NAVIGATOR" value="false" />
+    <option name="OPTION_INDEX" value="false" />
+    <option name="OPTION_SEPARATE_INDEX" value="false" />
+    <option name="OPTION_USE_1_1" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="false" />
+    <option name="OPTION_DEPRECATED_LIST" value="false" />
+    <option name="OTHER_OPTIONS" />
+    <option name="HEAP_SIZE" />
+    <option name="OPEN_IN_BROWSER" value="false" />
+  </component>
+  <component name="JikesSettings">
+    <option name="DEBUGGING_INFO" value="true" />
+    <option name="DEPRECATION" value="true" />
+    <option name="GENERATE_NO_WARNINGS" value="false" />
+    <option name="GENERATE_MAKE_FILE_DEPENDENCIES" value="false" />
+    <option name="DO_FULL_DEPENDENCE_CHECK" value="false" />
+    <option name="IS_INCREMENTAL_MODE" value="false" />
+    <option name="IS_EMACS_ERRORS_MODE" value="true" />
+    <option name="ADDITIONAL_OPTIONS_STRING" value="" />
+    <option name="MAXIMUM_HEAP_SIZE" value="128" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.tparchi.app.iml" filepath="$PROJECT_DIR$/com.tparchi.app.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK" />
+</project>
