@@ -31,7 +31,7 @@ public class City {
 		this.location = new Position(latitude,longitude);
 		this.country = country;
 	}
-	
+
 	public City() {
 	}
 	
